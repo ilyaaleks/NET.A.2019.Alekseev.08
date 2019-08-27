@@ -1,0 +1,7 @@
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\bin\Debug\NET.A.2019.Alekseev.08.bank.exe.config
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\bin\Debug\NET.A.2019.Alekseev.08.bank.exe
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\bin\Debug\NET.A.2019.Alekseev.08.bank.pdb
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\obj\Debug\NET.A.2019.Alekseev.08.bank.csprojAssemblyReference.cache
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\obj\Debug\NET.A.2019.Alekseev.08.bank.csproj.CoreCompileInputs.cache
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\obj\Debug\NET.A.2019.Alekseev.08.bank.exe
+D:\epam\Day8\NET.A.2019.Alekseev.08.bank\obj\Debug\NET.A.2019.Alekseev.08.bank.pdb
